@@ -38,9 +38,8 @@ EventKonnect is a professional event management platform designed to connect eve
 ## Getting Started
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Klab-Rwanda/event_konnect_limited_bn.git
-   cd event_konnect_limited_bn
+   ```git clone https://github.com/KUNDWA1/Best_Event_Connect_bn.git
+   cd Best_Event_Connect_bn
    ```
 2. **Install dependencies:**
    ```bash
@@ -87,6 +86,20 @@ Interactive API docs are available via Swagger:
 
 - Local: [http://localhost:5000/api-docs](http://localhost:5000/api-docs)
 - Production: `/api-docs` on your deployed server
+
+## Test Credentials
+
+Use these seeded accounts to test different roles:
+
+- **Admin**
+  - Email: `divinekundwa@gmail.com`
+  - Password: `12345678`
+- **Event Planner**
+  - Email: `mutuyimana11@gmail.com`
+  - Password: `12345678`
+- **Vendor**
+  - Email: `divine@example.com`
+  - Password: `12345678`
 
 ## Contributing
 
