@@ -1,0 +1,1 @@
+-- This migration is redundant as it was already included in the init migration
